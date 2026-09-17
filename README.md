@@ -1,4 +1,3 @@
-New Game Themes for the Mario Multiverse Demo 2.1 Version
 Made by:
 Keira S., Vini, Nintendp,Elpepe, NachoRED274.
 Credits:

@@ -20,7 +20,7 @@ Keira S., Vini, Nintendp, Elpepe, NachoRED274.
 Credits:
 
 - Closed beta SFMB contributors.
-- Urikett, Chill, VCreeper08, Chef Gatu's, Smudgers
+- Urikett, Chill, Gonza, VCreeper08, Chef Gatu's, Smudgers
 
 Advertencia:
 

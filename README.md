@@ -24,4 +24,4 @@ Credits:
 
 Advertencia:
 
-Todos los recursos (sprites), la música y los sonidos son propiedad intelectual de Nintendo. Cualquiera puede usarlos. Este proyecto no cuenta con el respaldo de Nintendo. Si utilizas estos recursos, debes dar crédito a los respectivos propietarios.
+Todos los recursos (sprites), la música y los sonidos son propiedad intelectual de Nintendo. Cualquiera persona puede hacer uso de ellos. Este proyecto no cuenta con el respaldo de Nintendo. Si utilizas estos recursos, debes dar crédito a los respectivos propietarios.

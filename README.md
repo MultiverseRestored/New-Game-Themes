@@ -19,9 +19,9 @@ Keira S., Vini, Nintendp, Elpepe, NachoRED274.
 
 Credits:
 
-- Closed beta SFMB contributors.
+- Closed Beta SFMB contributors.
 - Urikett, Chill, Gonza, VCreeper08, Chef Gatu's, Smudgers
 
 Advertencia:
 
-Todos los recursos (sprites), la música y los sonidos son propiedad intelectual de Nintendo. Cualquiera persona puede hacer uso de ellos. Este proyecto no cuenta con el respaldo de Nintendo. Si utilizas estos recursos, debes dar créditos a las personas que correspondan.
+Todos los recursos (sprites), la música y los sonidos son propiedad intelectual de Nintendo. Cualquier persona puede hacer uso de ellos. Este proyecto no cuenta con el respaldo de Nintendo. Si utilizas estos recursos, debes dar créditos a las personas que correspondan.
